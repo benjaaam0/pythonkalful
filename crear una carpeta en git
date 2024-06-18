@@ -1,3 +1,4 @@
+#crear carpeta
 git init 
 git add .
  git status
@@ -6,3 +7,7 @@ git config --global user.name "benjaaam0"
  git commit -m "ayudantia python"
  git remote add origin https://github.com/benjaaam0/pythonkalful.git
 git push origin master
+#clonar en git
+cd EvalForm3
+git branch -m benja #cambiar nombre de archivo
+git checkout 
