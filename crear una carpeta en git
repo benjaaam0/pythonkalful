@@ -8,6 +8,12 @@ git config --global user.name "benjaaam0"
  git remote add origin https://github.com/benjaaam0/pythonkalful.git
 git push origin master
 #clonar en git
+git clone link
+cd tarea
+git branch -m master nombre
+###
 cd EvalForm3
 git branch -m benja #cambiar nombre de archivo
 git checkout 
+#ver cambios
+git log
